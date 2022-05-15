@@ -210,7 +210,7 @@
 
     /* Hero Section */
     #hero {
-      background-image: url(https://cutewallpaper.org/21/anime-boy-military/Wallpaper-hand-boy-tears-white-background-art-green-.jpg);
+      background-image: url("https://lovepik.com/image-401722991/girl-holding-books.html");
       background-size: cover;
       background-position: top center;
       position: relative;
