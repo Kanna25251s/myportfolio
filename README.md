@@ -784,7 +784,7 @@
         <div class="all-projects">
             <div class="project-item">
                 <div class="project-info">
-                    <h1>Project 1</h1>
+                    <h1>Project </h1>
                     <h2>I Love Coding</h2>
                     <p>Designed a website for the people who feel coding is boring and difficult.
                         Introduced many easy methods and easy understandable website to learn coding.
@@ -795,18 +795,7 @@
                     <img src="https://frameboxx.in/upload/page/expert-program-web-development_511103x.jpg" alt="img">
                 </div>
             </div>
-            <div class="project-item">
-                <div class="project-info">
-                    <h1>Project 2</h1>
-                    <h2>I Love Coding</h2>
-                    <p>Designed a website for the people who feel coding is boring and difficult.
-                        Introduced many easy methods and easy understandable website to learn coding.
-                        Various methods and tips of coding.</p>
-                </div>
-                <div class="project-img">
-                    <img src="https://frameboxx.in/upload/page/expert-program-web-development_511103x.jpg" alt="img">
-                </div>
-            </div>
+            
         </div>
     </div>
 </section>
