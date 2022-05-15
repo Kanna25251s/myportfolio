@@ -720,7 +720,7 @@
         <div class="nav-bar">
             <div class="brand">
                 <a href="#hero">
-                    <h1><span>S</span>aritha <span>S</span>andeep</h1>
+                    <h1><span>S</span>aritha</h1>
                 </a>
             </div>
             <div class="nav-list">
@@ -759,8 +759,7 @@
     <div class="services container">
         <div class="service-top">
             <h1 class="section-title">Sk<span>i</span>lls</h1>
-            <p>I am pretty decent at communication skills.<br>I am good at PYTHON, HTML, CSS, JAVASCRIPT.<br>
-                I can able to do front end developing for any kind of website. </p>
+            <p>I show interest on creative writing. I have excellent communication skills. I am very much intested to learn new things and keen to learn codding and programming. I have intrest on AI/MI. Currently, I am learning java and other computer languages.</p>
         </div>
         <div class="service-bottom">
             <div class="service-item">
@@ -834,9 +833,9 @@
         <div class="col-right">
             <h1 class="section-title">About <span>me</span></h1>
             <h2>Student/Beginner</h2>
-            <p>Hello,<br>My self Sai Ganesh Chintha. I am currently persuing "Btech" Computer science stream in <br>VIT-AP University.
-                I am good at front end developing.<br>My hobbies are Reading books,cooking,drawing and playing chess.<br>
-                My strength is to manage my work in intime </p>
+            <p>Hello,<br>My self Saritha. I am currently persuing "Btech" Computer science stream in <br>VIT-AP University.
+                I am good at front end developing.<br>My hobbies are Reading books,dancing,drawing and playing games.<br>
+                I am Optimist, Self motivated, dedicayed and hardworking person.</p>
             <a href="#" class="cta">Download Resume</a>
         </div>
     </div>
@@ -861,14 +860,14 @@
                 <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/new-post.png" /></div>
                 <div class="contact-info">
                     <h1>Email</h1>
-                    <h2>saritha.21bce9140@gmail.com</h2>
+                    <h2>saritha.21bce9140@vitapstudent.ac.in</h2>
                 </div>
             </div>
             <div class="contact-item">
                 <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/map-marker.png" /></div>
                 <div class="contact-info">
                     <h1>Address</h1>
-                    <h2>Door no:7/102;<br>Madhavanagar,Dharmavaram<br>Andhrapradesh-515671</h2>
+                    <h2>Door no:4/93;<br>Chavidi Street,Peddapasupula;<br>Peddamudium mandal;<br>Jammalamadugu<br>Andhrapradesh-516411</h2>
                 </div>
             </div>
         </div>
@@ -880,21 +879,21 @@
 <section id="footer">
     <div class="footer container">
         <div class="brand">
-            <h1><span>S</span>aritha <span>S</span>andeep</h1>
+            <h1><span>S</span>aritha</h1>
         </div>
         <h2>Your Complete Web Solution</h2>
         <div class="social-icon">
             <div class="social-item">
-                <a href="https://www.facebook.com/profile.php?id=100009187761157" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" /></a>
+                <a href="https://www.facebook.com/saritha.tallapureddyadivemmagari"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" /></a>
             </div>
             <div class="social-item">
-                <a href="https://www.instagram.com/s.g.c.12_05_2003/" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" /></a>
+                <a href="https://www.instagram.com/invites/contact/?i=1eqg72t5hz4rv&utm_content=npp8mi8"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" /></a>
             </div>
             <div class="social-item">
-                <a href="https://twitter.com/SaiVitian" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/twitter.png" /></a>
+                <a href="https://twitter.com/Saritha4522"><img src="https://img.icons8.com/bubbles/100/000000/twitter.png" /></a>
             </div>
         </div>
-        <p>Copyright © 2020 S.G.Chintha. All rights reserved</p>
+        <p>Copyright © 2020 Saritha. All rights reserved</p>
     </div>
 </section>
 <!-- End Footer -->
