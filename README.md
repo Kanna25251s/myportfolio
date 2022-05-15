@@ -774,12 +774,7 @@
                 <p>Completed web design course from well reputed institute. Done many projects on web designing.
                     Worked for few websites and good at web designing.</p>
             </div>
-            <div class="service-item">
-                <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/services.png" /></div>
-                <h2>Web Design</h2>
-                <p>Completed web design course from well reputed institute. Done many projects on web designing.
-                    Worked for few websites and good at web designing.</p>
-            </div>
+            
         </div>
     </div>
 </section>
