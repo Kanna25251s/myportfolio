@@ -720,7 +720,7 @@
         <div class="nav-bar">
             <div class="brand">
                 <a href="#hero">
-                    <h1><span>S</span>ai <span>G</span>anesh</h1>
+                    <h1><span>S</span>aritha <span>S</span>andeep</h1>
                 </a>
             </div>
             <div class="nav-list">
@@ -747,7 +747,7 @@
         <div>
             <h1>Hello, <span></span></h1>
             <h1>My Name is <span></span></h1>
-            <h1>Sai Ganesh <span></span></h1>
+            <h1>Saritha <span></span></h1>
             <a href="#projects" type="button" class="cta">Portfolio</a>
         </div>
     </div>
@@ -854,14 +854,14 @@
                 <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/phone.png" /></div>
                 <div class="contact-info">
                     <h1>Phone</h1>
-                    <h2>+91 9966764430</h2>
+                    <h2>+91 9390373752</h2>
                 </div>
             </div>
             <div class="contact-item">
                 <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/new-post.png" /></div>
                 <div class="contact-info">
                     <h1>Email</h1>
-                    <h2>saiganesh.21bce9476@gmail.com</h2>
+                    <h2>saritha.21bce9140@gmail.com</h2>
                 </div>
             </div>
             <div class="contact-item">
@@ -880,7 +880,7 @@
 <section id="footer">
     <div class="footer container">
         <div class="brand">
-            <h1><span>S</span>ai <span>G</span>anesh</h1>
+            <h1><span>S</span>aritha <span>S</span>andeep</h1>
         </div>
         <h2>Your Complete Web Solution</h2>
         <div class="social-icon">
